@@ -10,7 +10,7 @@ The aim of the project is to cluster NYC apartments from AIRBNB database
 The project uses K-Mean machine learning algorithm
 
 <br>
-The project includes: <br>
+The project includes:
 - Exploratory analysis
 - Feature engineering
 - Creating a model
