@@ -7,9 +7,8 @@ https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 <br>
 The aim of the project is to cluster NYC apartments from AIRBNB database
-The project uses K-Mean machine learning algorithm
+The project uses K-Mean machine learning algorithm<br>
 
-<br>
 The project includes:
 - Exploratory analysis
 - Feature engineering
